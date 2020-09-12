@@ -1,6 +1,3 @@
-Name: Tashreque Mohammed Haq
-ID: 1411834042
-
 Programming Language Used: Java
 
 Instructions:
